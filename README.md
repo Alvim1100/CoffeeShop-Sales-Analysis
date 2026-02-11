@@ -15,12 +15,10 @@ O projeto abrange desde a modelagem do banco de dados (SQL) até a visualizaçã
 > *Nota: Como o relatório é interativo, abaixo estão capturas de tela das principais visões.*
 
 ### 1. Visão Geral de Vendas
-![Overview](images/overview.png)
 <img width="1510" height="848" alt="image" src="https://github.com/user-attachments/assets/6606fcfe-a8fa-4d4e-a206-88e67ccbf40b" />
 
 
 ### 2. Análise por Produto
-![Products](images/details.png)
 <img width="1510" height="851" alt="image" src="https://github.com/user-attachments/assets/404bdda1-7ba0-45de-8e0d-ace51d4a1070" />
 
 
@@ -72,8 +70,12 @@ Os dados foram estruturados em um modelo dimensional (Star Schema) para otimizar
 
 ## 📢 Conclusão e Insights
 * A performance geral da cafeteria é sólida em termos de volume, com uma demanda bem distribuída ao longo dos períodos (Manhã, Tarde e Noite).
-* Identificou-se que segmento noturno gera o maior valor total com o menor volume de vendas.
+* O produto com melhor performance de vendas é o "Latte", seguido logo pelo "Americano com leite".
 * O produto com menos taxa de venda em todos os períodos do dia é o "Espresso".
+* Identificou-se que segmento noturno gera o maior valor total com o menor volume de vendas.
+* Os dias com as vendas mais baixas são Sábado e Domingo.
+* Os meses mais rentáveis, no geral, foram Outubro e Fevereiro.
+
 
 ---
 
